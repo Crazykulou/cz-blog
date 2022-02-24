@@ -1,0 +1,1 @@
+module "crazykulou.com/cz-blog"
